@@ -127,6 +127,7 @@ celerybeat.pid
 # SageMath parsed files
 *.sage.py
 
+<<<<<<< HEAD
 .venv/
 .venv/*
 venv/
@@ -142,6 +143,7 @@ instance/
 htmlcov/
 
 *.egg-info/
+=======
 
 # Environments
 .env
