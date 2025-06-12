@@ -6,3 +6,6 @@
 
 ## Initialize DB
 `flask --app flaskr init-db`
+
+## Install project in an env
+`pip install -e .`
